@@ -63,7 +63,7 @@
 }
 
 .icon-blue-anime,[src$="blue_anime.gif"] {
-  background-image: url(data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMDA5Njg4IiBkPSJNMTIgNnYzbDQtNC00LTR2M2MtNC40MiAwLTggMy41OC04IDggMCAxLjU3LjQ2IDMuMDMgMS4yNCA0LjI2TDYuNyAxNC44QTUuODcgNS44NyAwIDAgMSA2IDEyYzAtMy4zMSAyLjY5LTYgNi02em02Ljc2IDEuNzRMMTcuMyA5LjJjLjQ0Ljg0LjcgMS43OS43IDIuOCAwIDMuMzEtMi42OSA2LTYgNnYtM2wtNCA0IDQgNHYtM2M0LjQyIDAgOC0zLjU4IDgtOCAwLTEuNTctLjQ2LTMuMDMtMS4yNC00LjI2eiIvPjwvc3ZnPg==);
+  background-image: url(https://aclong28.github.io/ntnam.github.io/blue_gif.svg);
 }
 
 .icon-red-anime,[src$="red_anime.gif"] {
@@ -627,8 +627,8 @@ table.progress-bar.red td.progress-bar-done {
 }
 
 td.progress-bar-done {
-  background-color: #009688!important;
-  border-color: #009688!important;
+  background-color: #66CC00!important;
+  border-color: #66CC00!important;
 }
 
 td.progress-bar-left {
