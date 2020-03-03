@@ -24,7 +24,7 @@
 }
 
 [src$="blue.png"] {
-  background-image: url(https://aclong28.github.io/ntnam.github.io/green.svg);
+  background-image: url("green.svg");
 }
 
 [src$="red.png"] {
@@ -521,7 +521,7 @@ a:hover,a:hover:hover,a:link:hover,a:visited:hover {
   letter-spacing: 1px;
   padding: 12px 10px;
   z-index: 1;
-  background-image: url("https://aclong28.github.io/ntnam.github.io/bosch_background.png");
+  background-image: url("bosch_background.png");
 }
 
 #header .login {
@@ -542,7 +542,7 @@ a:hover,a:hover:hover,a:link:hover,a:visited:hover {
     margin-left: 16px;
     width: 64px;
     height: 64px;
-    background-image: url("https://aclong28.github.io/ntnam.github.io/real_radar.png");
+    background-image: url("real_radar.png");
 }
 
 #breadcrumbBar #breadcrumbs {
